@@ -12,6 +12,15 @@ body{
     color: white;
 }
 
+.navbar-nav {
+    background-color:#0a071c50;
+    padding-left: 10px;
+}
+
+.navbar-nav li{
+    border-bottom: 1px solid whitesmoke;
+}
+
 #main-name{
     display: inline;
     font-size: 2rem;
